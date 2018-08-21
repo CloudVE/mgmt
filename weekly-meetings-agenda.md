@@ -4,7 +4,12 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 ## 2018-08-21
--
+- CloudBridge 1.0 release
+  - Changing of `name` property to `label` status
+  - [Issue #140](https://github.com/CloudVE/cloudbridge/issues/140)
+  - [Release process](http://cloudbridge.cloudve.org/en/latest/topics/release_process.html) and plans
+- GVL with Galaxy 18.05 testing
+- CloudBridge 1.0 in Galaxy
 
 ## 2018-08-14
 - CloudBridge 1.0 release
