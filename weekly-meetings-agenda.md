@@ -3,6 +3,11 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2018-09-10
+- CloudAuthz [PR #5903](https://github.com/galaxyproject/galaxy/pull/5903) review/merge (@Vahid & @Enis)
+- Download tool [PR #6583](https://github.com/galaxyproject/galaxy/pull/6583) review/merge (@Vahid & @Enis)
+- CloudBridge publication
+
 ## 2018-09-04
 - CloudBridge v1 release;
 - Genomespace update.
