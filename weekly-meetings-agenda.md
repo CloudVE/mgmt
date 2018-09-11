@@ -9,6 +9,7 @@ https://zoom.us/j/3980033400.
 - CloudBridge publication
 - Updating CloudLaunch for CloudBridge v1
 - Add Galaxy-Docker-Stable on Azure in CloudLaunch
+- GVL 4.4/Galaxy 18.05 release
 
 ## 2018-09-04
 - CloudBridge v1 release;
