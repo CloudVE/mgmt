@@ -7,8 +7,8 @@ https://zoom.us/j/3980033400.
 - CloudAuthz [PR #5903](https://github.com/galaxyproject/galaxy/pull/5903) review/merge (@Vahid & @Enis)
 - Download tool [PR #6583](https://github.com/galaxyproject/galaxy/pull/6583) review/merge (@Vahid & @Enis)
 - CloudBridge publication
-- Add Galaxy-Docker-Stable on Azure in CloudLaunch
 - Updating CloudLaunch for CloudBridge v1
+- Add Galaxy-Docker-Stable on Azure in CloudLaunch
 
 ## 2018-09-04
 - CloudBridge v1 release;
