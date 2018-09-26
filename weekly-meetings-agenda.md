@@ -3,6 +3,13 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2018-09-26
+- Report from _[Nuwan the biologist](http://www.icter.org/conference/workshops/)_
+- GVL 4.4/Galaxy 18.05 release
+- Galaxy [team meeting presentations](https://docs.google.com/presentation/d/10uNH8tbWwZ1nPr3WtAHBrfF7rT8vWb93pCacfWbS6L4/edit#slide=id.p)
+- Kicking off work on [Galaxy bursting](https://github.com/galaxyproject/galaxy/issues/6426)
+- Interest in another meeting focused on _using galaxy_?
+
 ## 2018-09-11: [todo list](https://github.com/CloudVE/mgmt/issues/2)
 - CloudAuthz [PR #5903](https://github.com/galaxyproject/galaxy/pull/5903) review/merge (@Vahid & @Enis)
 - Download tool [PR #6583](https://github.com/galaxyproject/galaxy/pull/6583) review/merge (@Vahid & @Enis)
@@ -10,7 +17,6 @@ https://zoom.us/j/3980033400.
 - Updating CloudLaunch for CloudBridge v1
 - Add Galaxy-Docker-Stable on Azure in CloudLaunch
 - GVL 4.4/Galaxy 18.05 release
-
 
 ## 2018-09-04
 - CloudBridge v1 release;
