@@ -3,6 +3,15 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2018-10-09
+- Reported issues with GVL 4.4: https://github.com/galaxyproject/cloudman/issues
+- Galaxy bursting progress & plans: 
+  - [CloudLaunch API keys](https://github.com/galaxyproject/cloudlaunch/pull/156)
+  - [Pulsar Docker container](https://github.com/galaxyproject/pulsar/pull/166)
+  - [Pulsar Helm chart](https://github.com/galaxyproject/pulsar-helm)
+  - Operational validation
+- Galaxy cloud download tool progress
+
 ## 2018-09-26
 - Report from _[Nuwan the biologist](http://www.icter.org/conference/workshops/)_
 - GVL 4.4/Galaxy 18.05 release
