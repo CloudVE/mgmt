@@ -3,6 +3,10 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2018-10-16
+- Galaxy cloud download tool [PR #6583](github.com/galaxyproject/galaxy/pull/6583);
+- Galaxy cloud "download" and "upload" naming;
+
 ## 2018-10-09
 - Reported issues with GVL 4.4: https://github.com/galaxyproject/cloudman/issues
 - Galaxy bursting progress & plans: 
