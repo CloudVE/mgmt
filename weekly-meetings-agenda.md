@@ -4,7 +4,10 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 ## 2018-10-16
-- Galaxy cloud download tool [PR #6583](https://github.com/galaxyproject/galaxy/pull/6583);
+- Galaxy cloud download tool [PR #6583](https://github.com/galaxyproject/galaxy/pull/6583)
+- Status of GVL 4.4 issues from last week
+- CloudLaunch issues in Sentry (https://sentry.galaxyproject.org/sentry/cloudlaunch/)
+- Updates and plans with Pulsar bursting
 
 ## 2018-10-09
 - Reported issues with GVL 4.4: https://github.com/galaxyproject/cloudman/issues
