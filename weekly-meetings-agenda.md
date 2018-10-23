@@ -6,7 +6,7 @@ https://zoom.us/j/3980033400.
 ## 2018-10-23
 - Assignemnts from last week: https://github.com/CloudVE/mgmt/issues/3
 - Cloud bursting demo and next steps
-- Galaxy cloud download tool [PR #6583](https://github.com/galaxyproject/galaxy/pull/6583)
+- Galaxy cloud send tool [PR #6583](https://github.com/galaxyproject/galaxy/pull/6583)
 
 ## 2018-10-16
 - Galaxy cloud download tool [PR #6583](https://github.com/galaxyproject/galaxy/pull/6583)
