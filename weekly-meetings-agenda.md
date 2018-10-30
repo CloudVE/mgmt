@@ -3,6 +3,13 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2018-10-30
+- Todos from last week: https://github.com/CloudVE/mgmt/issues/4
+- Update on the call with the AnswerALS project
+- Name for the dynamic job runner library
+- Issues reported with GVL 4.4: https://github.com/galaxyproject/cloudman/issues
+- Progress on Pulsar bursting: https://docs.google.com/document/d/12SPNzG4E_tJyA1jEG2VqAi90r65THPxZpsDRTb5-IoM/edit
+
 ## 2018-10-23: [todo list](https://github.com/CloudVE/mgmt/issues/4)
 - Assignemnts from last week: https://github.com/CloudVE/mgmt/issues/3
 - Cloud bursting demo and next steps
