@@ -9,6 +9,7 @@ https://zoom.us/j/3980033400.
 - Name for the dynamic job runner library
 - Issues reported with GVL 4.4: https://github.com/galaxyproject/cloudman/issues
 - Progress on Pulsar bursting: https://docs.google.com/document/d/12SPNzG4E_tJyA1jEG2VqAi90r65THPxZpsDRTb5-IoM/edit
+- Galaxy PR [#6583](https://github.com/galaxyproject/galaxy/pull/6583) status.
 
 ## 2018-10-23: [todo list](https://github.com/CloudVE/mgmt/issues/4)
 - Assignemnts from last week: https://github.com/CloudVE/mgmt/issues/3
