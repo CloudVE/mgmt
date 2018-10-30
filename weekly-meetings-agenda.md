@@ -3,7 +3,7 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
-## 2018-10-30
+## 2018-10-30 [todo list](https://github.com/CloudVE/mgmt/issues/5)
 - Todos from last week: https://github.com/CloudVE/mgmt/issues/4
 - Update on the call with the AnswerALS project
 - Name for the dynamic job runner library
