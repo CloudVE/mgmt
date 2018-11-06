@@ -8,6 +8,7 @@ https://zoom.us/j/3980033400.
 - Update on the Custos project kickoff
 - Galaxy PR [#6583](https://github.com/galaxyproject/galaxy/pull/6583)
 - Progress on Pulsar bursting: https://docs.google.com/document/d/12SPNzG4E_tJyA1jEG2VqAi90r65THPxZpsDRTb5-IoM/edit
+- ClouBridge branch cleanup: https://docs.google.com/spreadsheets/d/1rfl9vzfU1nCXks962QDnrr_DRrja6N1W5RQAmZzJS74/edit?usp=sharing
 
 ## 2018-10-30 [todo list](https://github.com/CloudVE/mgmt/issues/5)
 - Todos from last week: https://github.com/CloudVE/mgmt/issues/4
