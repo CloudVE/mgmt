@@ -3,6 +3,13 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2018-11-13
+- GalaxyCloudRunner update:
+  - [Rules module override](https://github.com/galaxyproject/galaxy/pull/6993)
+  - [Chaining dynamic destinations](https://github.com/galaxyproject/galaxy/pull/7006)
+  - [Support for CVMFS in Pulsar Docker](https://github.com/galaxyproject/pulsar/pull/166)
+- Chart updates for CloudMan
+
 ## 2018-11-06
 - Items from last week: [todos](https://github.com/CloudVE/mgmt/issues/5), [GVL 4.4 issues](https://github.com/galaxyproject/cloudman/issues)
 - Update on the Custos project kickoff
