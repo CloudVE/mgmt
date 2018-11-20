@@ -9,7 +9,7 @@ https://zoom.us/j/3980033400.
   - [x] Keycloak stock and latest version
   - [x] Keycloak-Rancher integration
   - [x] Prometheus stock
-  - [] Grafana stock
+  - [ ] Grafana stock
   
 
 ## 2018-11-13
