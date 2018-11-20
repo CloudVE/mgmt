@@ -3,6 +3,10 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2018-11-20
+- Galaxy bursting update
+- Update on the CloudMan 2.0 charts
+
 ## 2018-11-13
 - GalaxyCloudRunner update:
   - [Rules module override](https://github.com/galaxyproject/galaxy/pull/6993)
