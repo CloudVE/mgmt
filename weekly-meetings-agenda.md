@@ -6,6 +6,11 @@ https://zoom.us/j/3980033400.
 ## 2018-11-20
 - Galaxy bursting update
 - Update on the CloudMan 2.0 charts
+  - [x] Keycloak stock and latest version
+  - [x] Keycloak-Rancher integration
+  - [x] Prometheus stock
+  - [] Grafana stock
+  
 
 ## 2018-11-13
 - GalaxyCloudRunner update:
