@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2018-11-27
+- CloudMan 2.0 charts update
+- Making the Pulsar bursting more robust
+- Finalizing CloudBridge docs update
+- Galaxy Helm chart early impressions
+
 ## 2018-11-20
 - Galaxy bursting update
 - Update on the CloudMan 2.0 charts
@@ -10,7 +16,6 @@ https://zoom.us/j/3980033400.
   - [x] Keycloak-Rancher integration
   - [x] Prometheus stock
   - [ ] Grafana stock
-  
 
 ## 2018-11-13
 - GalaxyCloudRunner update:
