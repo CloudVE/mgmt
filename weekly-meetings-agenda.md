@@ -3,6 +3,18 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+
+## 2018-12-18
+- Prioritze CloudBridge tasks for CollaborationFest with Vassar
+- CloudBridge GCE provider
+- Making Galaxy jobs fetch/deposit their own input/output data
+
+## 2018-12-11
+- No meeting
+
+## 2018-12-04 
+- No meeting
+
 ## 2018-11-27
 - CloudMan 2.0 charts update
 - Making the Pulsar bursting more robust
