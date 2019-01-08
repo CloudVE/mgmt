@@ -7,6 +7,9 @@ https://zoom.us/j/3980033400.
 ## 2019-01-08: Plans for Q1/2019
 ![Q1/2019 projects](https://i.imgur.com/EdoOKvJ.png "Q1/2019 projects")
 
+- GCE support in CloudBridge: https://github.com/CloudVE/cloudbridge/pull/114
+- [Galaxy on Kubernetes planning document](https://docs.google.com/document/d/1ffL_LePZ35Cr_FEgirFMnguZmIcfhrF1wZMogOHCijo/edit#)
+
 ## 2018-12-18
 - Prioritze CloudBridge tasks for CollaborationFest with Vassar
 - CloudBridge GCE provider
