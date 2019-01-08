@@ -4,6 +4,9 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-01-08: Plans for Q1/2019
+![Q1/2019 projects](https://i.imgur.com/EdoOKvJ.png "Q1/2019 projects")
+
 ## 2018-12-18
 - Prioritze CloudBridge tasks for CollaborationFest with Vassar
 - CloudBridge GCE provider
