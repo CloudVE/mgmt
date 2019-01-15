@@ -4,6 +4,12 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-01-15
+- GalaxyCloudRunner package added to Galaxy
+- CloudBridge event dispatcher
+- CloudBridge GCE progress
+- Update on ansible-galaxy-os role: 18.04, slim version, need for nginx
+
 ## 2019-01-08: Plans for Q1/2019
 ![Q1/2019 projects](https://i.imgur.com/EdoOKvJ.png "Q1/2019 projects")
 
