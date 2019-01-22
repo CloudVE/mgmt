@@ -4,6 +4,16 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-01-22
+- CloudBridge 
+  - Naming issues (on OpenStack at least), [#167](https://github.com/CloudVE/cloudbridge/issues/167)
+  - Status of GCE support, including [key pair ID issue](https://github.com/CloudVE/cloudbridge/pull/114/commits/f981ed9c123bea6a25d312b6afb03210b7ed9c97#r249219848)
+  - BucketObjectService, EventDispatcher; can we clean up some of the branches?
+  - Colabfest update
+- Galaxy Admin Training instance [launch script](https://github.com/almahmoud/cloudbridge-demo-loop) & support
+- Progress on the [minimal Galaxy Docker container](https://github.com/CloudVE/galaxy-kube-playbook)
+- Implications of the [Galaxy login PR](https://github.com/galaxyproject/galaxy/pull/7047) having been merged
+
 ## 2019-01-15
 - GalaxyCloudRunner package added to Galaxy
 - CloudBridge event dispatcher
