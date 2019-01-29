@@ -4,6 +4,12 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-01-29
+- CloudBridge GCE provider update
+- Need to update CloudLaunch server to include fix for https://github.com/CloudVE/cloudbridge/issues/167
+- Galaxy & Keycloak integration PR https://github.com/galaxyproject/galaxy/pull/7195
+- Progress on the [minimal Galaxy Docker container](https://github.com/CloudVE/galaxy-kube-playbook) & plans
+
 ## 2019-01-22
 - CloudBridge 
   - Naming issues (on OpenStack at least), [#167](https://github.com/CloudVE/cloudbridge/issues/167)
