@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+
+## 2019-02-12
+- Coding standards:
+  - Unless it's an interface method with an existing docstring, a method must have a docstring, including a description of each parameter
+  - Continuously passing tests
+
 ## 2019-02-05
 - Towards CloudBridge 2.0 release: [remaining issues](https://github.com/CloudVE/cloudbridge/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22release+2.0.0%22)
 - Next steps for the minimal Galaxy image
