@@ -8,6 +8,7 @@ https://zoom.us/j/3980033400.
 - Coding standards:
   - Unless it's an interface method with an existing docstring, a method must have a docstring, including a description of each parameter
   - Continuously passing tests
+- Optional dependencies (xref: https://github.com/galaxyproject/galaxy/issues/7320)
 
 ## 2019-02-05
 - Towards CloudBridge 2.0 release: [remaining issues](https://github.com/CloudVE/cloudbridge/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22release+2.0.0%22)
