@@ -11,7 +11,8 @@ https://zoom.us/j/3980033400.
 - CloudBridge 
   - Optional dependencies (xref: https://github.com/galaxyproject/galaxy/issues/7320)
   - Use of generic project metadata for key pairs vs. ssh-keys metadata
-  - Towards the CloudBridge 2.0 release: [remaining issues](https://github.com/CloudVE/cloudbridge/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22release+2.0.0%22)
+  - Review the [remaining CloudBridge 2.0 issues](https://github.com/CloudVE/cloudbridge/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22release+2.0.0%22)
+- Status of the [minimal Galaxy Docker container](https://github.com/CloudVE/galaxy-kube-playbook)
 
 ## 2019-02-05
 - Towards CloudBridge 2.0 release: [remaining issues](https://github.com/CloudVE/cloudbridge/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22release+2.0.0%22)
