@@ -10,7 +10,7 @@ https://zoom.us/j/3980033400.
     - [Zone decision](https://docs.google.com/spreadsheets/d/1wuM-JKtskSwHTAXmtU4o1rFy8SqE_MHBMGDPTPu2bh8/edit#gid=1938807527)
   - Release plans
 - Minimal Galaxy Docker image
-  - [Avoiding Ansible?][https://github.com/CloudVE/galaxy-kube-playbook/tree/no-ansible]
+  - [Avoiding Ansible?](https://github.com/CloudVE/galaxy-kube-playbook/tree/no-ansible)
   - Initial Kubernetes manifests
 - ITCR project update following the kickoff meeting
 
