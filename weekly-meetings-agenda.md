@@ -4,6 +4,15 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-02-19
+- CloudBridge
+  - Progress update: (remaining issues)[https://github.com/CloudVE/cloudbridge/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22release+2.0.0%22], impact on CloudLaunch
+  - Release plans
+- Minimal Galaxy Docker image
+  - [Avoiding Ansible?][https://github.com/CloudVE/galaxy-kube-playbook/tree/no-ansible]
+  - Initial Kubernetes manifests
+- ITCR project update following the kickoff meeting
+
 ## 2019-02-12
 - Coding standards:
   - Unless it's an interface method with an existing docstring, a method must have a docstring, including a description of each parameter
