@@ -6,8 +6,8 @@ https://zoom.us/j/3980033400.
 
 ## 2019-02-19
 - CloudBridge
-  - Progress update: (remaining issues)[https://github.com/CloudVE/cloudbridge/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22release+2.0.0%22], impact on CloudLaunch
-    - Zone decision (xref https://docs.google.com/spreadsheets/d/1wuM-JKtskSwHTAXmtU4o1rFy8SqE_MHBMGDPTPu2bh8/edit#gid=1938807527)
+  - Progress update: [remaining issues](https://github.com/CloudVE/cloudbridge/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22release+2.0.0%22), impact on CloudLaunch
+    - [Zone decision](https://docs.google.com/spreadsheets/d/1wuM-JKtskSwHTAXmtU4o1rFy8SqE_MHBMGDPTPu2bh8/edit#gid=1938807527)
   - Release plans
 - Minimal Galaxy Docker image
   - [Avoiding Ansible?][https://github.com/CloudVE/galaxy-kube-playbook/tree/no-ansible]
