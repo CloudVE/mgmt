@@ -5,13 +5,16 @@ https://zoom.us/j/3980033400.
 
 
 ## 2019-02-25
-- Finalize CloudBridge v2 release, preceeded with the necessary CloudLaunch++ updates
-- Upgrade CloudMan 2.0 charts to latest ([Rancher 2.2?](https://github.com/rancher/rancher/releases) (set [here](https://github.com/CloudVE/cloudman-boot/blob/b340ee7947af6deaaea66cce9cea93127cca5c9d/providers/other/vars/other_vars.yml)), [Keycloak 4.8?](https://github.com/keycloak/keycloak/releases)). Chart versions are mostly set [in this file](https://github.com/CloudVE/cloudman-helm/blob/master/cloudman/requirements.yaml).
-- CloudMan scaling
-- ConfigMaps for all Galaxy config files
+- [@almahmoud, @nuwang] Finalize CloudBridge v2 release, preceeded with the necessary CloudLaunch++ updates
+- [@ic4f] Upgrade CloudMan 2.0 charts to latest ([Rancher 2.2?](https://github.com/rancher/rancher/releases) (set [here](https://github.com/CloudVE/cloudman-boot/blob/b340ee7947af6deaaea66cce9cea93127cca5c9d/providers/other/vars/other_vars.yml)), [Keycloak 4.8?](https://github.com/keycloak/keycloak/releases)). Chart versions are mostly set [in this file](https://github.com/CloudVE/cloudman-helm/blob/master/cloudman/requirements.yaml). Enable Keycloak login support in Rancher.
+- [@nuwang] CloudMan scaling
+- [@ic4f] ConfigMaps for all Galaxy config files
 - Galaxy Docker image with tools ([related PR?](https://github.com/galaxyproject/galaxy/pull/7316)) + exec jobs in K8S via the K8S job runner
-- Implement multi-part object store uploads in CloudBridge 
-- NFS & CVMFS CSI integration w/ K8S ([tracking issue](https://github.com/galaxyproject/galaxy-kubernetes/issues/31)) (+ environment modules integration)
+  - Try https://github.com/galaxyproject/galaxy/pull/7316 from within the Minimal Container
+  - Sync w/ John about the status and plans re. the [3-part job execution on K8S ](https://docs.google.com/presentation/d/1TaWmxet80B0REDGYFL3z4GBDmANtr1j_uFvZMIkrBF0/edit)
+  - See what the current Galaxy Docker/Helm is doing
+- Implement multi-part object store uploads in CloudBridge (push to Q2/2019)
+- [@vjalili] NFS & CVMFS CSI integration w/ K8S ([tracking issue](https://github.com/galaxyproject/galaxy-kubernetes/issues/31)) (+ environment modules integration)
 
 ## 2019-02-19
 - CloudBridge
