@@ -4,6 +4,16 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-03-05
+- Updates on CloudLaunch changes and CloudBridge v2
+- CloudMan upgrade to Rancher 2.2
+- CloudMan scaling
+- ConfigMaps handling for Galaxy Chart
+- Follow up on Galaxy Docker image with tools
+- NFS & CVMFS CSI integration w/ K8S
+- Blocking issues and how to proceed
+
+
 ## 2019-02-25
 - [@almahmoud, @nuwang] Finalize CloudBridge v2 release, preceeded with the necessary CloudLaunch++ updates
 - [@ic4f] Upgrade CloudMan 2.0 charts to latest ([Rancher 2.2?](https://github.com/rancher/rancher/releases) (set [here](https://github.com/CloudVE/cloudman-boot/blob/b340ee7947af6deaaea66cce9cea93127cca5c9d/providers/other/vars/other_vars.yml)), [Keycloak 4.8?](https://github.com/keycloak/keycloak/releases)). Chart versions are mostly set [in this file](https://github.com/CloudVE/cloudman-helm/blob/master/cloudman/requirements.yaml). Enable Keycloak login support in Rancher.
