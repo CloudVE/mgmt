@@ -5,6 +5,7 @@ https://zoom.us/j/3980033400.
 
 
 ## 2019-03-05
+- Demo cross-cloud job dispatcher 
 - Updates on CloudLaunch changes and CloudBridge v2
 - CloudMan upgrade to Rancher 2.2
 - CloudMan scaling
