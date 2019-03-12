@@ -3,6 +3,14 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-03-12
+- Update on Enis's sailing adventure
+- Updates on CloudLaunch changes and CloudBridge v2
+- CloudMan upgrade to Rancher 2.2
+- CloudMan scaling
+- ConfigMaps handling for Galaxy Chart
+- Follow up on Galaxy Docker image with tools
+- NFS & CVMFS CSI integration w/ K8S
 
 ## 2019-03-05
 - Demo cross-cloud job dispatcher 
