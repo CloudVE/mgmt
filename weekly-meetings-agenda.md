@@ -1,7 +1,14 @@
-Meetings are held weekly, on Tuesdays at [9am PT / 12pm ET / 10:30pm SLT](https://www.worldtimeserver.com/meeting-planner-times.aspx?&L0=US-OR&Day=14&Mon=8&Y=2018&L1=US-MD&L2=LK&L3=&L4=&L5=&L6=&L7=).
+Meetings are held weekly, on Tuesdays at [9am PT / 12pm ET / 9:30pm SLT](https://www.worldtimeserver.com/meeting-planner-times.aspx?&L0=US-OR&Day=14&Mon=8&Y=2018&L1=US-MD&L2=LK&L3=&L4=&L5=&L6=&L7=).
 Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
+
+## 2019-03-26
+- Rancher and Keycloak integration
+- Helm chart and Postgress connectivity
+- Reinstallation of CloudLaunch 
+- Status of the Custos integration PR: https://github.com/galaxyproject/galaxy/pull/7195
+- Milestones for the upcoming week
 
 ## 2019-03-12
 - Update on Enis's sailing adventure
