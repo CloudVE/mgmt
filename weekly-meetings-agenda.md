@@ -6,6 +6,7 @@ https://zoom.us/j/3980033400.
 ## 2019-04-02
 - Enable rolling updates for celery (preStop signal currently not working as expected: https://github.com/CloudVE/cloudlaunch-helm/blob/a021bc809da17c2c3707a618f84adfe5d8075ab7/cloudlaunch-server/templates/cl-celery-deployment.yaml#L37)
 - Better way to handle vm_default_username for GCP and Azure. Store with image?
+- Support request on being unable to attach EBS volume on AWS. Possibly related to device naming and instance type?
 - Rancher and Keycloak integration:
   - Automated KeyCloak Client creation: https://github.com/almahmoud/cloudman-boot/commit/fe9fdf029229785104b78337d141427c9c68904e
   - Automated KeyCloak-Rancher mappings creation: https://github.com/almahmoud/cloudman-boot/commit/1a814fdc943994a833ea6b7f397f2c1aabf0a646
