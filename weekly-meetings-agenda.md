@@ -6,6 +6,7 @@ https://zoom.us/j/3980033400.
 ## 2019-04-02
 - Enable rolling updates for celery (preStop signal currently not working as expected: https://github.com/CloudVE/cloudlaunch-helm/blob/a021bc809da17c2c3707a618f84adfe5d8075ab7/cloudlaunch-server/templates/cl-celery-deployment.yaml#L37)
 - Better way to handle vm_default_username for GCP and Azure. Store with image?
+- Support request on being unable to attach EBS volume on AWS. Possibly related to device naming and instance type?
 - Rancher and Keycloak integration (https://149.165.157.181:4430)
 - CloudBridge OpenStack issue: networking and compute resources in different zones
 - AWS Instance Types by Zone (https://github.com/CloudVE/aws-instance-types/commits/master)
