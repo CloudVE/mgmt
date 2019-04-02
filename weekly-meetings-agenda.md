@@ -6,10 +6,17 @@ https://zoom.us/j/3980033400.
 ## 2019-04-02
 - Enable rolling updates for celery (preStop signal currently not working as expected: https://github.com/CloudVE/cloudlaunch-helm/blob/a021bc809da17c2c3707a618f84adfe5d8075ab7/cloudlaunch-server/templates/cl-celery-deployment.yaml#L37)
 - Better way to handle vm_default_username for GCP and Azure. Store with image?
-- Support request on being unable to attach EBS volume on AWS. Possibly related to device naming and instance type?
-- Rancher and Keycloak integration (https://149.165.157.181:4430)
+- Rancher and Keycloak integration:
+  - Automated KeyCloak Client creation: https://github.com/almahmoud/cloudman-boot/commit/fe9fdf029229785104b78337d141427c9c68904e
+  - Automated KeyCloak-Rancher mappings creation: https://github.com/almahmoud/cloudman-boot/commit/1a814fdc943994a833ea6b7f397f2c1aabf0a646
+  - Automated Rancher External Auth setup: https://github.com/almahmoud/cloudman-boot/commit/0b4d452b8c8767d96199342a3dabf7bb54537712
+  - Result: https://149.165.169.166:4430 (can only login with PrincipalID `keycloak_user://admin`)
+  - Remaining issue: adding `keycloak_user://admin` Principal ID to rancher local admin user or manually creating a new local user with that Principal ID and giving it admin permissions)
 - CloudBridge OpenStack issue: networking and compute resources in different zones
 - AWS Instance Types by Zone (https://github.com/CloudVE/aws-instance-types/commits/master)
+  - Quick README Update
+  - Have to keep: `["instance_type", "family", "vCPU", "memory", "storage"]`
+  - What extra to keep from: `['ECU', 'FPGA', 'GPU', 'arch', 'base_performance', 'burst_minutes', 'clock_speed_ghz', 'ebs_as_nvme', 'ebs_iops', 'ebs_max_bandwidth', 'ebs_optimized', 'ebs_throughput', 'emr', 'enhanced_networking', 'generation', 'intel_avx', 'intel_avx2', 'intel_avx512', 'intel_turbo', 'ipv6_support', 'linux_virtualization_types', 'network_performance', 'physical_processor', 'placement_group_support', 'pretty_name', 'pricing', 'vpc', 'vpc_only']`
 - Helm chart and Postgress connectivity
 - Reinstallation of CloudLaunch 
 - Status of the Custos integration PR: https://github.com/galaxyproject/galaxy/pull/7195
