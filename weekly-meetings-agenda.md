@@ -3,6 +3,16 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-04-02
+- Enable rolling updates for celery (preStop signal currently not working as expected: https://github.com/CloudVE/cloudlaunch-helm/blob/a021bc809da17c2c3707a618f84adfe5d8075ab7/cloudlaunch-server/templates/cl-celery-deployment.yaml#L37)
+- Rancher and Keycloak integration (https://149.165.157.181:4430)
+- CloudBridge OpenStack issue: networking and compute resources in different zones
+- AWS Instance Types by Zone (https://github.com/CloudVE/aws-instance-types/commits/master)
+- Helm chart and Postgress connectivity
+- Reinstallation of CloudLaunch 
+- Status of the Custos integration PR: https://github.com/galaxyproject/galaxy/pull/7195
+- Milestones for the upcoming week
+
 ## 2019-03-26
 - Rancher and Keycloak integration (https://149.165.157.181:4430)
 - CloudBridge OpenStack issue: networking and compute resources in different zones
