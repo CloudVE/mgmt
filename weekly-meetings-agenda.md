@@ -4,12 +4,15 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 ## 2019-04-10
-- Data transfer from cloudlaunch to cloudman
-- Cloudlaunch/plugin interface is poorly defined (the dict data structures are very complex and ill-defined). Need to separate them better and allow plugins to be tested standalone.
+- Data transfer from CloudLaunch to CloudMan
+- CloudLaunch/plugin interface is poorly defined (the dict data structures are very complex and ill-defined). Need to separate them better and allow plugins to be tested standalone.
 - Better tooling for release management (we have multiple libraries to keep in sync. e.g. cloudlaunch, cli, cloudman, djcloudbridge etc). Can we release all in bulk when stable?
 - Better way to handle vm_default_username for GCP and Azure. Store with image?
 - Support request on being unable to attach EBS volume on AWS. Possibly related to device naming and instance type?
-- Milestones for the upcoming week
+- Q2/2019 milestones
+
+![Q2/2019 projects](https://i.imgur.com/E3dS8eT.png "Q2/2019 projects")
+
 
 ## 2019-04-02
 - Enable rolling updates for celery (preStop signal currently not working as expected: https://github.com/CloudVE/cloudlaunch-helm/blob/a021bc809da17c2c3707a618f84adfe5d8075ab7/cloudlaunch-server/templates/cl-celery-deployment.yaml#L37)
