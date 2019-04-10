@@ -9,6 +9,7 @@ https://zoom.us/j/3980033400.
 - Better tooling for release management (we have multiple libraries to keep in sync. e.g. cloudlaunch, cli, cloudman, djcloudbridge etc). Can we release all in bulk when stable?
 - Better way to handle vm_default_username for GCP and Azure. Store with image?
 - Support request on being unable to attach EBS volume on AWS. Possibly related to device naming and instance type?
+- GCC 2019 abstracts: https://galaxyproject.org/events/gcc2019/abstracts/
 - Q2/2019 milestones
 
 ![Q2/2019 projects](https://i.imgur.com/E3dS8eT.png "Q2/2019 projects")
