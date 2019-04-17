@@ -8,7 +8,7 @@ https://zoom.us/j/3980033400.
 - GCC 2019 abstracts: https://galaxyproject.org/events/gcc2019/abstracts/
 - Q2/2019 milestones
 
-![Q2/2019 projects](https://i.imgur.com/E3dS8eT.png "Q2/2019 projects")
+![Q2/2019 projects](https://i.imgur.com/Jw9pAfW.png "Q2/2019 projects")
 
 ## 2019-04-10
 - Data transfer from CloudLaunch to CloudMan
