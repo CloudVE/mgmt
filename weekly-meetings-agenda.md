@@ -4,6 +4,13 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-04-23
+- Let's try a new model/process for tracking progress:
+  1. For a basic idea, issue, etc, create a card on https://github.com/orgs/CloudVE/projects/1
+  2. Once you start working on a card, convert the card into an issue, provide more details, and assign yourself (and others)
+  3. Add more granular units of work as a checklist on the created issue
+- Let's do a few now
+
 ## 2019-04-16
 - GCC 2019 abstracts: https://galaxyproject.org/events/gcc2019/abstracts/
 - Q2/2019 milestones
