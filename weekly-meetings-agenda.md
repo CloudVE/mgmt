@@ -6,7 +6,8 @@ https://zoom.us/j/3980033400.
 
 ## 2019-05-13
 - what are the options for running Galaxy jobs on cloud with auto resource provisioning?
-- can  cloudbridge accept/leverage a custom "apiclient.discovery.build" for GCP?
+- can cloudbridge accept/leverage a custom "apiclient.discovery.build" for GCP?
+- permissions policy on cloudve organization
 
 ## 2019-04-23
 - Let's try a new model/process for tracking progress:
