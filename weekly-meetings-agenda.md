@@ -4,6 +4,10 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-05-13
+- what are the options for running Galaxy jobs on cloud with auto resource provisioning?
+- can  cloudbridge accept/leverage a custom "apiclient.discovery.build" for GCP?
+
 ## 2019-04-23
 - Let's try a new model/process for tracking progress:
   1. For a basic idea, issue, etc, create a card on https://github.com/orgs/CloudVE/projects/1
