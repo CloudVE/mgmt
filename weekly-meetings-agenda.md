@@ -5,7 +5,7 @@ https://zoom.us/j/3980033400.
 
 
 ## 2019-05-13
-
+- Discussion with Pablo Moreno about upstreaming Galaxy Helm chart v3
 
 ## 2019-04-23
 - Let's try a new model/process for tracking progress:
