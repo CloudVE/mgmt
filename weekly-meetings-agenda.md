@@ -4,6 +4,11 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-05-21
+- Integration of tools from the CVMFS
+- Data persistence
+- Roadmap review: https://github.com/orgs/CloudVE/projects/1
+
 ## 2019-05-13
 - Discussion with Pablo Moreno about upstreaming Galaxy Helm chart v3
 
