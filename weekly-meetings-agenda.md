@@ -8,6 +8,7 @@ https://zoom.us/j/3980033400.
 - Integration of tools from the CVMFS
 - Data persistence
 - Roadmap review: https://github.com/orgs/CloudVE/projects/1
+- CloudMan helm chart update
 
 ## 2019-05-13
 - Discussion with Pablo Moreno about upstreaming Galaxy Helm chart v3
