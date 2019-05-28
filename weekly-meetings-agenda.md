@@ -4,6 +4,14 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-05-28
+- Goals for the week: 
+  - Tools from the CVMFS are available in Galaxy
+  - Galaxy submits jobs directly to K8s
+  - Persistent storage disks are automatically provisioned
+  - Galaxy starts up on CloudMan from the Helm chart
+- Next week: start GCC training prep and support
+
 ## 2019-05-21
 - Integration of tools from the CVMFS
 - Data persistence
