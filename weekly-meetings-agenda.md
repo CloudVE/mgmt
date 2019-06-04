@@ -3,6 +3,8 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-06-04
+- All hands on deck: interactive K8s job execution debugging with the chart
 
 ## 2019-05-28
 - Goals for the week: 
