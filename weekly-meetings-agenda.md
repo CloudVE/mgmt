@@ -4,6 +4,7 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 ## 2019-06-18
+- Send data/Get data tools update
 - Tools to be tested for Mo's workshop
 - Mulled containers discussion
 - Re-setting priorities for the next week
