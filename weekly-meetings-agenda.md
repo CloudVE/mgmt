@@ -3,8 +3,8 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
-## 2019-06-218
-- Tools to be tested for Mo workshop
+## 2019-06-18
+- Tools to be tested for Mo's workshop
 - Mulled containers discussion
 - Re-setting priorities for the next week
 
