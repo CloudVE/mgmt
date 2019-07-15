@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-07-16
+- A slightly different structure for these meetings: shorter general meeting, more individual involvement, debugging sessions
+- Roadmap progress
+- Create a 'map' of projects for Q3
+- A plan/path for moving repos from CloudVE to galaxyproject organization
+
 ## 2019-06-26
 - Practice talks for GCC
 
