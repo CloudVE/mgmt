@@ -8,6 +8,8 @@ https://zoom.us/j/3980033400.
 - Roadmap progress
 - Create a 'map' of projects for Q3
 - A plan/path for moving repos from CloudVE to galaxyproject organization
+- Rancher-Keycloak integration PR: https://github.com/CloudVE/cloudman-boot/pull/2
+  - Deployed for demo at: https://149.165.156.111:4430
 
 ## 2019-06-26
 - Practice talks for GCC
