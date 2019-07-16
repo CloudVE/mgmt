@@ -6,7 +6,7 @@ https://zoom.us/j/3980033400.
 ## 2019-07-16
 - A slightly different structure for these meetings: shorter general meeting, more individual involvement, debugging sessions
 - Roadmap progress
-- Create a 'map' of projects for Q3
+- Create a 'map' of [projects for Q3](https://docs.google.com/document/d/1EHVJfzjghzTZHD5hpZ36ipH0CmD3v8r4azHiywXgLLI/edit?usp=sharing)
 - A plan/path for moving repos from CloudVE to galaxyproject organization
 - Rancher-Keycloak integration PR: https://github.com/CloudVE/cloudman-boot/pull/2
   - Deployed for demo at: https://149.165.156.111:4430
