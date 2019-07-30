@@ -5,6 +5,7 @@ https://zoom.us/j/3980033400.
 
 ## 2019-07-30
 - Issues running helm chart on GKE: https://gist.github.com/VJalili/e55394a96639679b4639f83c8652ad3e
+- Status of the UI for Authnz disconnect API;
 
 ## 2019-07-23
 - Discuss PRs:
