@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-07-23
+- Discuss PRs:
+  Rancher-Keycloak integration PR: https://github.com/CloudVE/cloudman-boot/pull/2
+  - Deployed for demo at: https://149.165.156.111:4430
+- Discuss `initScripts`/`initContainers` to finalize PR: https://github.com/CloudVE/galaxy-helm/pull/51
+
 ## 2019-07-16
 - A slightly different structure for these meetings: shorter general meeting, more individual involvement, debugging sessions
 - Roadmap progress
