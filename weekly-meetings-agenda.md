@@ -3,6 +3,9 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-08-06
+- CSI driver requirement on different k8s versions. 
+
 ## 2019-07-30
 - Issues running helm chart on GKE: https://gist.github.com/VJalili/e55394a96639679b4639f83c8652ad3e
 - Status of the UI for Authnz disconnect API;
