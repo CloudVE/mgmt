@@ -3,6 +3,10 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-08-13
+- User-based object store paper
+- [Roadmap](https://github.com/orgs/CloudVE/projects/1) update
+
 ## 2019-08-06
 - CSI driver requirement on different k8s versions.
 - Announcement for K8S 1.16+: https://kubernetes-csi.github.io/docs/print.html#deployment-6
