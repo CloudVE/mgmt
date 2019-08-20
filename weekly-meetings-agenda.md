@@ -3,6 +3,11 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-08-20
+- [Prep for the demo at the AnVIL F2F tech meeting on Sep 11](https://github.com/orgs/CloudVE/projects/1#column-6258005)
+- [GVL 5.0 release plans](https://github.com/orgs/CloudVE/projects/1#column-6257989)
+- Standalone `helm install cloudman`
+
 ## 2019-08-13
 - User-based object store paper
 - [Roadmap](https://github.com/orgs/CloudVE/projects/1) update
