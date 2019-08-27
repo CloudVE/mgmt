@@ -6,6 +6,7 @@ https://zoom.us/j/3980033400.
 ## 2019-08-27
 - Publication plans for cloudbridge. 
 - Login to Galaxy using keycloak (a follow-up from last week's chat between Vahid and Alex).
+- [AnVIL F2F tech meeting topics](https://docs.google.com/document/d/1f9w2uaxFn8eIFFwMw4wIwPIQyjd_g1HTH9mFuHL2plI/edit#)
 
 ## 2019-08-20
 - [Prep for the demo at the AnVIL F2F tech meeting on Sep 11](https://github.com/orgs/CloudVE/projects/1#column-6258005)
