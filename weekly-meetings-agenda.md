@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+
+## 2019-09-03
+- [Finalizing tasks for the AnVIL F2F tech meeting next week](https://github.com/orgs/CloudVE/projects/1#column-6258005)
+- Getting the GVL running on Jetstream
+- New format for this meeting going forward: ~10 minute presentations by each individual
+
 ## 2019-08-27
 - Publication plans for cloudbridge. 
 - Login to Galaxy using keycloak (a follow-up from last week's chat between Vahid and Alex).
