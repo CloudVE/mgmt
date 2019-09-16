@@ -4,6 +4,9 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2019-09-17
+- Within Gen3 context, any reasonable deployment options, possibly complementary to Helm charts?
+
 ## 2019-09-03
 - [Finalizing tasks for the AnVIL F2F tech meeting next week](https://github.com/orgs/CloudVE/projects/1#column-6258005)
 - Getting the GVL running on Jetstream
