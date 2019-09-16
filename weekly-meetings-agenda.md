@@ -9,6 +9,7 @@ https://zoom.us/j/3980033400.
 - Goals for Q4.
 - Status update on the publications.
 - Within Gen3 context, any reasonable deployment options, possibly complementary to Helm charts?
+- PRs: [#50](https://github.com/galaxyproject/galaxy-helm/pull/50) & [#551](https://github.com/galaxyproject/galaxy-hub/pull/551)
 
 ## 2019-09-03
 - [Finalizing tasks for the AnVIL F2F tech meeting next week](https://github.com/orgs/CloudVE/projects/1#column-6258005)
