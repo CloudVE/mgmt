@@ -5,6 +5,9 @@ https://zoom.us/j/3980033400.
 
 
 ## 2019-09-17
+- AnVIL F2F meeting outcome. 
+- Goals for Q4.
+- Status update on the publications.
 - Within Gen3 context, any reasonable deployment options, possibly complementary to Helm charts?
 
 ## 2019-09-03
