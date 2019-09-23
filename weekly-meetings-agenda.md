@@ -3,10 +3,13 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-09-24
+- Integrating the [Custos SDK](https://github.com/apache/airavata-custos) w/ Galaxy: requirements and task list
+- Prioritization of [Q4 tasks](https://docs.google.com/document/d/1SyBXY3NuJe1HZezGHRDXDxtqjYsXpBrqiH0Y9Bzyx10/edit)
 
 ## 2019-09-17
 - AnVIL F2F meeting outcome. 
-- Goals for Q4.
+- Goals for Q4
 - Status update on the publications.
 - Within Gen3 context, any reasonable deployment options, possibly complementary to Helm charts?
 - PRs: [#50](https://github.com/galaxyproject/galaxy-helm/pull/50) & [#551](https://github.com/galaxyproject/galaxy-hub/pull/551)
