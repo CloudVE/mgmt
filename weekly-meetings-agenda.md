@@ -5,6 +5,7 @@ https://zoom.us/j/3980033400.
 
 ## 2019-09-24
 - Integrating the [Custos SDK](https://github.com/apache/airavata-custos) w/ Galaxy: requirements and task list
+- CloudBridge paper outline
 - Prioritization of [Q4 tasks](https://docs.google.com/document/d/1SyBXY3NuJe1HZezGHRDXDxtqjYsXpBrqiH0Y9Bzyx10/edit)
 
 ## 2019-09-17
