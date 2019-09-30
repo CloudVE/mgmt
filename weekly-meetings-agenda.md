@@ -8,6 +8,7 @@ https://zoom.us/j/3980033400.
 - ![Q4/2019 projects](https://i.imgur.com/SO5fFZM.png "Q4/2019 projects")
 - Galaxy chart versioning
 - [CloudLaunch deployment status updates](https://github.com/galaxyproject/cloudlaunch-ui/pull/39)
+- Any Hacktoberfest issues?
 
 ## 2019-09-24
 - Integrating the [Custos SDK](https://github.com/apache/airavata-custos) w/ Galaxy: requirements and task list
