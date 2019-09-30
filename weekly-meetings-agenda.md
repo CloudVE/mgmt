@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+
+## 2019-10-01
+- Q4 milestones
+- Galaxy chart versioning
+- [CloudLaunch deployment status updates](https://github.com/galaxyproject/cloudlaunch-ui/pull/39)
+
 ## 2019-09-24
 - Integrating the [Custos SDK](https://github.com/apache/airavata-custos) w/ Galaxy: requirements and task list
 - CloudBridge paper outline
