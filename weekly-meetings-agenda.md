@@ -3,6 +3,10 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-10-15
+- Gen3 Data Commons Installation
+- uWSGI with libyaml
+
 ## 2019-10-08
 - Can we host custom images on CloudLaunch? 
 - Updates on CloudBridge manuscript.
