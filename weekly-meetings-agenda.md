@@ -5,6 +5,8 @@ https://zoom.us/j/3980033400.
 
 ## 2019-10-22
 - Cannot delete VMs created via CloudLaunch
+- Configuring CloudMan via CloudLaunch (+demo)
+- State of the open PRs
 
 ## 2019-10-15
 - Gen3 Data Commons Installation
