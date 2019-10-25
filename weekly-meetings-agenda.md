@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-10-29
+- Status of issues deploying a Galaxy instance on GCP and AWS via CloudLanuch.
+- Possible improvements to CloudLanuch UX.
+- Galaxy deployed via Helm charts: only few reference genomes, configuration precedence, and tools installed by default.
+
+
 ## 2019-10-22
 - Cannot delete VMs created via CloudLaunch
 - Configuring CloudMan via CloudLaunch (+demo)
