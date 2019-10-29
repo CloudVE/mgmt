@@ -4,6 +4,7 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 ## 2019-10-29
+- Discuss zipped configs and the different scenarios xref: https://github.com/galaxyproject/galaxy-helm/pull/62, make decisions to implement for GVL 5.0 release
 - Status of issues deploying a Galaxy instance on GCP and AWS via CloudLanuch.
 - Possible improvements to CloudLanuch UX.
 - Galaxy deployed via Helm charts: only few reference genomes, configuration precedence, and tools installed by default.
