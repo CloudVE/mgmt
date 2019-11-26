@@ -3,6 +3,16 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2019-11-26
+- GVL 5
+ - IEs / ITs / Jupyter
+ - Workflow invocation results in variable number of output datasets
+ - Adding tools, specifically rna_starsolo/2.7.2a1, dropletutils/1.2.1+2, scanpy, Seurat, scater
+ - Release plans and schedule
+
+## 2019-11-19
+- No meeting
+
 ## 2019-11-12
 - GVL 5.0 debugging: data managers, configs, ???
 
