@@ -1,7 +1,12 @@
-Meetings are held weekly, on Tuesdays at [9am PT / 12pm ET / 9:30pm SLT](https://www.worldtimeserver.com/meeting-planner-times.aspx?&L0=US-OR&Day=14&Mon=8&Y=2018&L1=US-MD&L2=LK&L3=&L4=&L5=&L6=&L7=).
+Meetings are held weekly, on Tuesdays at [9am PT / 12pm ET / 10:30pm SLT](https://www.worldtimeserver.com/meeting-planner-times.aspx?&L0=US-OR&Day=7&Mon=1&Y=2020&L1=US-MD&L2=LK&L3=&L4=&L5=&L6=&L7=).
 Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
+
+## 2020-01-07
+- [Outstanding GVL 5.0 techncal tasks](https://docs.google.com/document/d/1lKYE2qhLaj_MOqgGVISavJ0kt3_JSYS3up96lI2OdiU/edit)
+- [Tool and workflow tests](https://docs.google.com/spreadsheets/d/1-KIZ0Wiv-hh8M2FAhUPRtALmCyiRr_02x61WcfWYwQ4/edit#gid=1205244974)
+- [Unresolved tool containers](https://github.com/galaxyproject/tools-iuc/issues/2773)
 
 ## 2019-11-26
 - GVL 5
