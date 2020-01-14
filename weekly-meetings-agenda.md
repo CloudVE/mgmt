@@ -4,6 +4,7 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 ## 2020-01-14
+- Health checks design issue: https://github.com/galaxyproject/galaxy/issues/9180
 - Open PRs: [galaxy-helm](https://github.com/galaxyproject/galaxy-helm/pulls), [cloudlaunch-helm](https://github.com/cloudve/cloudlaunch-helm/pulls), [galaxy-socker-k8s](https://github.com/CloudVE/galaxy-docker-k8s/pulls), [cloudlaunch-registry](https://github.com/galaxyproject/cloudlaunch-registry/pulls), [cloudlaunch-cli](https://github.com/CloudVE/cloudlaunch-cli/pulls)
 - Upcoming security audit
 - Speeding up Galaxy launches
