@@ -3,6 +3,11 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-01-21
+- [Training workflows](https://app.clubhouse.io/galaxyjhu/epic/1010/get-representative-training-workflows-working) tool fixes: [galaxy-helm](https://github.com/galaxyproject/galaxy-helm/pulls)
+- [GVL 5 outstanding issues](https://docs.google.com/document/d/1lKYE2qhLaj_MOqgGVISavJ0kt3_JSYS3up96lI2OdiU/edit)
+- [Security audit prep](https://docs.google.com/document/d/1lKYE2qhLaj_MOqgGVISavJ0kt3_JSYS3up96lI2OdiU/edit)
+
 ## 2020-01-14
 - Galaxy K8s health checks design issue: https://github.com/galaxyproject/galaxy/issues/9180
 - Open PRs: [galaxy-helm](https://github.com/galaxyproject/galaxy-helm/pulls), [cloudlaunch-helm](https://github.com/cloudve/cloudlaunch-helm/pulls), [galaxy-docker-k8s](https://github.com/CloudVE/galaxy-docker-k8s/pulls), [cloudlaunch-registry](https://github.com/galaxyproject/cloudlaunch-registry/pulls), [cloudlaunch-cli](https://github.com/CloudVE/cloudlaunch-cli/pulls)
