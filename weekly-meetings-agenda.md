@@ -3,6 +3,9 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-02-11
+- [Testing the GVL 5 release](https://docs.google.com/document/d/1lKYE2qhLaj_MOqgGVISavJ0kt3_JSYS3up96lI2OdiU/edit)
+
 ## 2020-02-04
 - [Security audit prep](https://docs.google.com/document/d/1lKYE2qhLaj_MOqgGVISavJ0kt3_JSYS3up96lI2OdiU/edit)
 - [GVL 5 release schedule](https://docs.google.com/document/d/1lKYE2qhLaj_MOqgGVISavJ0kt3_JSYS3up96lI2OdiU/edit)
