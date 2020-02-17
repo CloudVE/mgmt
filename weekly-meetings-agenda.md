@@ -3,6 +3,18 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-02-18
+- [Python 3 for the base image](https://github.com/CloudVE/galaxy-docker-k8s/pull/10). Image tag names?
+- [Autoscaling](https://github.com/galaxyproject/cloudman/pull/110) demo?
+- When to start the security audit?
+- CI status and plans
+- [Ongoing GVL 5 tasks](https://docs.google.com/document/d/1lKYE2qhLaj_MOqgGVISavJ0kt3_JSYS3up96lI2OdiU/edit)
+- GVL metrics to focus on? Launches not super useful, especially with only the admins launching.
+- Docs on getting started:
+  - [`/cloud`](https://galaxyproject.org/cloud/) page restructuring
+  - Getting creds for each of the supported clouds
+  - Our 'Twitter' strategy?
+
 ## 2020-02-11
 - [Testing the GVL 5 release](https://docs.google.com/document/d/1lKYE2qhLaj_MOqgGVISavJ0kt3_JSYS3up96lI2OdiU/edit)
 
