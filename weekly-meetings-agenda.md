@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-03-23
+- CI update
+- GVL beta2 release
+- Prep for Security Audit in early April
+- Schedule a review day for outstanding PRs
+
 ## 2020-02-18
 - [Python 3 for the base image](https://github.com/CloudVE/galaxy-docker-k8s/pull/10). Image tag names?
 - [Autoscaling](https://github.com/galaxyproject/cloudman/pull/110) demo?
