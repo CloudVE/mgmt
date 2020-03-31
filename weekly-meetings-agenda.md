@@ -5,8 +5,16 @@ https://zoom.us/j/3980033400.
 
 ## 2020-03-31
 - Simple CI demo
-- CI doc https://docs.google.com/document/d/1EsK9ZgH3zM2BYeT9195ACOoFVad8dgzWdi9m398N-P0/edit
-- SSO PR-merge
+- [CI doc])https://docs.google.com/document/d/1EsK9ZgH3zM2BYeT9195ACOoFVad8dgzWdi9m398N-P0/edit)
+- [Helm chart branch organization](https://github.com/galaxyproject/galaxy-helm/issues/42)
+- PRs to review and merge
+  - [OIDC Logout for CloudMan](https://github.com/CloudVE/cloudman-ui/pull/12
+  - [Post logout redirect URL](https://github.com/CloudVE/galaxy/pull/17)
+  - [cloudman-boot CM version bump](https://github.com/CloudVE/cloudman-boot/pull/12)
+  - [CloudMan Helm SSO](https://github.com/CloudVE/cloudman-helm/pull/16)
+  - [CloudMan Helm RBAC support for CM](https://github.com/CloudVE/cloudman-helm/pull/21)
+  - [CloudMan Helm randomizing passwords](https://github.com/CloudVE/cloudman-helm/pull/18)
+  - [CloudMan Helm auto scaling tuning](https://github.com/CloudVE/cloudman-helm/pull/20)
 
 ## 2020-03-23
 - CI update
