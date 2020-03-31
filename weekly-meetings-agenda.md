@@ -5,7 +5,7 @@ https://zoom.us/j/3980033400.
 
 ## 2020-03-31
 - Simple CI demo
-- [CI doc])https://docs.google.com/document/d/1EsK9ZgH3zM2BYeT9195ACOoFVad8dgzWdi9m398N-P0/edit)
+  - [CI doc](https://docs.google.com/document/d/1EsK9ZgH3zM2BYeT9195ACOoFVad8dgzWdi9m398N-P0/edit)
 - [Helm chart branch organization](https://github.com/galaxyproject/galaxy-helm/issues/42)
 - PRs to review and merge
   - [OIDC Logout for CloudMan](https://github.com/CloudVE/cloudman-ui/pull/12)
