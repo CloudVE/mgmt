@@ -5,7 +5,7 @@ https://zoom.us/j/3980033400.
 
 ## 2020-03-31
 - Simple CI demo
-- CI Design discussion
+- CI doc https://docs.google.com/document/d/1EsK9ZgH3zM2BYeT9195ACOoFVad8dgzWdi9m398N-P0/edit
 - SSO PR-merge
 
 ## 2020-03-23
