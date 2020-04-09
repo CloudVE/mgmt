@@ -1,7 +1,11 @@
-Meetings are held weekly, on Tuesdays at [9am PT / 12pm ET / 10:30pm SLT](https://www.worldtimeserver.com/meeting-planner-times.aspx?&L0=US-OR&Day=7&Mon=1&Y=2020&L1=US-MD&L2=LK&L3=&L4=&L5=&L6=&L7=).
+Meetings are held weekly, on Tuesdays at [9am PT / 12pm ET / 9:30pm SLT](https://www.worldtimeserver.com/meeting-planner-times.aspx?&L0=US-OR&Day=9&Mon=4&Y=2020&L1=US-MD&L2=LK&L3=&L4=&L5=&L6=&L7=).
 Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
+
+## 2020-04-14
+- Security audit
+- Designing CloudMan to run on top of a already provisioned K8s
 
 ## 2020-03-31
 - Simple CI demo
