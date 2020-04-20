@@ -1,11 +1,20 @@
-Meetings are held weekly, on Tuesdays at [9am PT / 12pm ET / 9:30pm SLT](https://www.worldtimeserver.com/meeting-planner-times.aspx?&L0=US-OR&Day=9&Mon=4&Y=2020&L1=US-MD&L2=LK&L3=&L4=&L5=&L6=&L7=).
+Meetings are held weekly, on Tuesdays at [9:30am PT / 12:30pm ET / 10:00pm SLT](https://www.worldtimeserver.com/meeting-planner-times.aspx?&L0=US-OR&Day=9&Mon=4&Y=2020&L1=US-MD&L2=LK&L3=&L4=&L5=&L6=&L7=).
 Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-04-21
+- Finalizing the GVL beta2 release
+  - Package charts, update CloudLaunch app registry
+  - Launch and test with the [COVID-19 pre-processing workflow](https://covid19.galaxyproject.org/genomics/1-PreProcessing/#the-history-and-the-workflow)
+  - [Write a blog post](https://docs.google.com/document/d/1I0nOIVGJKOvNWf6xMAdEeY-EbWdJA48enX1FIzf0xiE/edit#heading=h.eivvlz49pxpn)
+- Test ability to launch CloudMan K8s cluster on Jetstream at TACC
+  - Try running [latest 2-container job pods](https://github.com/galaxyproject/galaxy/pull/9614)
+- Installing CloudMan on GKE
+
 ## 2020-04-14
 - Security audit
-- Designing CloudMan to run on top of a already provisioned K8s
+- Designing CloudMan to run on top of an already provisioned K8s
 
 ## 2020-03-31
 - Simple CI demo
