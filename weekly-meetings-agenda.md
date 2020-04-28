@@ -3,6 +3,10 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-04-28
+- Project ideas for Mohamad's summer internship: Add K8s svc to CloudBridge or link CL to Custos
+- Plans for BCC2020 abstracts: GVL, GVL demo (admin & user views?), AnVIL preview, Custos(?)
+
 ## 2020-04-21
 - Finalizing the GVL beta2 release
   - Package charts, update CloudLaunch app registry
