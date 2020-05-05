@@ -3,6 +3,9 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-05-05
+- [Abstracts for BCC 2020](https://docs.google.com/document/d/11FHuEPNNAdZEKAuBVTilnzHyW4RZu8CCRYJFw7s0ghU/edit)
+
 ## 2020-04-28
 - Project ideas for Mohamad's summer internship: Add K8s svc to CloudBridge or link CL to Custos
 - Plans for BCC2020 abstracts: GVL, GVL demo (admin & user views?), AnVIL preview, Custos(?)
