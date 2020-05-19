@@ -3,6 +3,10 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-05-18
+- Finalizing the GalaxyCloudRunner paper
+- Oustanding tasks to suppoer Ira's class with the GVL
+
 ## 2020-05-12
 - Plans for the new GVL website
 - Issues with autoscaling on CloudMan where large nodes get killed too eagerly
