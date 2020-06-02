@@ -3,9 +3,16 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-06-02
+- Present project ideas to Mohamad for his summer internship
+- Wrapping up GVL install templates and the blog post
+
+## 2020-05-26
+- Wrapping up the support for multiple apps in the GVL: support projects, add shared storage
+
 ## 2020-05-18
 - Finalizing the GalaxyCloudRunner paper
-- Oustanding tasks to suppoer Ira's class with the GVL
+- Oustanding tasks to support Ira's class with the GVL
 
 ## 2020-05-12
 - Plans for the new GVL website
