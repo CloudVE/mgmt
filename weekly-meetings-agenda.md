@@ -3,6 +3,16 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-06-09
+- Remember to confirm acceptance of the BCC talks/demos
+- CloudLaunch
+  - help@cloudlaunch.org not resolving
+  - Parsing of the OpenStack RC credentials file not quite right
+  - Add option to specify custom disk size
+- Mohamad's project progress
+- CM Autoscaling
+- CI status
+
 ## 2020-06-02
 - Present project ideas to Mohamad for his summer internship
 - Wrapping up GVL install templates and the blog post
