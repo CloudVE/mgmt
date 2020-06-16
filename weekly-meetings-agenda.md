@@ -3,6 +3,11 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-06-16
+- GVL beta3 release status
+- Mohamad's internship
+- Topic list for Q3
+
 ## 2020-06-09
 - Remember to confirm acceptance of the BCC talks/demos
 - CloudLaunch
