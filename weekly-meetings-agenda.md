@@ -3,6 +3,17 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+
+## 2020-07-14
+- General updates re. Ira's class, BCC2020
+- [BCC2020 CoFest topics](https://docs.google.com/document/d/1UctntMyOMOFlyxgvZPiWqgXz7R3FjPKnuBVMoNxl9Jc/edit)
+- beta4 release
+- [GCR paper](https://docs.google.com/document/d/1RLD7Zmkez850oYfFVly662_tQKmwkO4vkpcQF50a94w/edit#)
+- [TrustedCI architecture diagram for Galaxy deployments](https://app.diagrams.net/#G1x51fYFbXRKB_fbdeWwg4t6qZ5BSjzoTr)
+
+## 2020-07-07
+- No meeting
+
 ## 2020-06-30
 - BCC 2020 video prep
 - Ira's class 
