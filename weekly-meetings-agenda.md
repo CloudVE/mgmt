@@ -4,6 +4,13 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2020-07-28
+- Review the [roadmap for Q3](https://docs.google.com/document/d/1giowxPPCPvLnmeXBE1RZvOGTIwWeepBVwNo810XVhfo/edit#heading=h.p7er1docwtfi) and make adjustments based on BCC2020
+- Plan for getting ITs running on Test via K8s at TACC
+
+## 2020-07-21
+- No meeting; BCC2020
+
 ## 2020-07-14
 - General updates re. Ira's class, BCC2020
 - [BCC2020 CoFest topics](https://docs.google.com/document/d/1UctntMyOMOFlyxgvZPiWqgXz7R3FjPKnuBVMoNxl9Jc/edit)
