@@ -10,6 +10,7 @@ https://zoom.us/j/3980033400.
 - Plan for getting ITs on Test
 - GCR paper revision
 - ~Finalize [RabbitMQ chart PR](https://github.com/bitnami/charts/pull/3222)?~ [Merged](https://github.com/bitnami/charts/pull/3445)
+- Galaxy Helm chart for Galaxy 20.09 release will drop Helm 2 support (inspired by [#155](https://github.com/galaxyproject/galaxy-helm/issues/155))
 - Ports that needs to opened for the GVL
 
 ## 2020-08-11
