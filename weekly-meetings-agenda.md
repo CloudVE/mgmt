@@ -4,6 +4,20 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2020-08-18
+- Review CloudMan audit + schedule a call
+- iRODS: adopting for K8s + [webinar about iRODS CSI](https://irods.org/trirods/)
+- Plan for getting ITs on Test
+- GCR paper revision
+- Finalize [RabbitMQ chart PR](https://github.com/bitnami/charts/pull/3222)?
+- Ports that needs to opened for the GVL
+
+## 2020-08-11
+- No meeting
+
+## 2020-08-04
+- No meeting
+
 ## 2020-07-28
 - Review the [roadmap for Q3](https://docs.google.com/document/d/1giowxPPCPvLnmeXBE1RZvOGTIwWeepBVwNo810XVhfo/edit#heading=h.p7er1docwtfi) and make adjustments based on BCC2020
 - Plan for getting ITs running on Test via K8s at TACC
