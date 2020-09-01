@@ -4,6 +4,13 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2020-09-01
+- Adding the ability to specify Galaxy disk size in CloudLaunch (eg, [usability reports](https://help.galaxyproject.org/t/uploaded-files-depleted-memory-on-galaxy-cloudman/3615/6))
+- Meeting with Syscall7 to go over the CloudMan security audit
+
+## 2020-08-25
+- No meeting
+
 ## 2020-08-18
 - Review CloudMan audit + schedule a call
 - iRODS: adopting for K8s + [webinar about iRODS CSI](https://irods.org/trirods/)
