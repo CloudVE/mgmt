@@ -10,6 +10,7 @@ https://zoom.us/j/3980033400.
   - c. K8S should use a configurable job template
   - d. Cloudman should not send Helm values to client unless user has admin permissions
 - Launch process is thorough. What about the maintenance process of a running cluster? How should we "codify" all configuration changes?
+- Interactive Tools
 
 ## 2020-09-01
 - Adding the ability to specify Galaxy disk size in CloudLaunch (eg, [usability reports](https://help.galaxyproject.org/t/uploaded-files-depleted-memory-on-galaxy-cloudman/3615/6))
