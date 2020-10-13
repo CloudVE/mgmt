@@ -3,9 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
-## 2020-09-15
+
+## 2020-10-13
 - Containerized tools tests on GKE
 - Starting ITs manually
+- Storage: iRODS support in K8s
+- K3s update & integrations: [Rancher](https://gist.github.com/afgane/f018a1d72fe0c210a41d59f38fa76e88), Keycloak
 
 ## 2020-09-15
 - Issues to resolve:
