@@ -8,6 +8,12 @@ https://zoom.us/j/3980033400.
 - GVL update: overview of everything that changed, and a how-to for running the new version of things
 - Projman changes: what do we want projman to be
 - Goals for GVL for November
+   - Merging CVMFS values
+   - Add all settings for HA cloudman to github
+   - Add keycloak operator
+   - Refactor Projman
+   - Document why /galaxy/server/database/tools is being used
+   - Switch to Postgres HA
 
 ## 2020-10-13
 - Containerized tools tests on GKE
