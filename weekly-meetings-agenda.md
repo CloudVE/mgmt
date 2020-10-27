@@ -4,6 +4,11 @@ Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share
 https://zoom.us/j/3980033400.
 
 
+## 2020-10-27
+- GVL update: overview of everything that changed, and a how-to for running the new version of things
+- Projman changes: what do we want projman to be
+- Goals for GVL for November
+
 ## 2020-10-13
 - Containerized tools tests on GKE
 - Starting ITs manually
