@@ -3,6 +3,12 @@ Anyone is welcome to join. Unless posted differently in the [FederatedGalaxy
 Gitter channel](https://gitter.im/galaxyproject/FederatedGalaxy?utm_source=share-link&utm_medium=link&utm_campaign=share-link), we'll use the following meeting URL:
 https://zoom.us/j/3980033400.
 
+## 2020-11-10
+- Getting ready for the [Galaxy webinar](https://galaxyproject.org/events/2020-12-webinar-where/) and [CZI EOSS](https://chanzuckerberg.com/eoss/) demo of the GVL on Dec 9
+- Update the list of available instance types available via CloudBridge, or finalize [PR 248](https://github.com/CloudVE/cloudbridge/pull/248)
+
+## 2020-11-03
+- No meeting
 
 ## 2020-10-27
 - GVL update: overview of everything that changed, and a how-to for running the new version of things
