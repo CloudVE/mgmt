@@ -12,6 +12,7 @@ https://zoom.us/j/3980033400.
     - Consolidate alpine and other images where possible into a single Galaxy image to reduce download times
     - Convert metrics kubernetes job into a deployment that uses a cron job
     - Galaxy-helm does not seem to be starting up when ingress path is /
+    - Projman should be updated if it's already installed
 
 ## 2020-11-03
 - No meeting
