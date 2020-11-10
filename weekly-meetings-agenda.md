@@ -11,6 +11,7 @@ https://zoom.us/j/3980033400.
     - Add tini to image
     - Consolidate alpine and other images where possible into a single Galaxy image to reduce download times
     - Convert metrics kubernetes job into a deployment that uses a cron job
+    - Galaxy-helm does not seem to be starting up when ingress path is /
 
 ## 2020-11-03
 - No meeting
